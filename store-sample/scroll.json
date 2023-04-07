@@ -1,0 +1,347 @@
+{
+  "books": [
+    {
+      "cover": null,
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Три точки 🔹a20e7587",
+      "md5_relative": "a20e7587",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "title": "Три точки зрения на человеческое познание (Карл Поппер).pdf"
+    },
+    {
+      "cover": "otkrytoe-obshchestvo-i-ego-vragi-tom-1-chary-platona-karl-popper-pdf-2c3bcb16.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Открытое о🔹2c3bcb16",
+      "md5_relative": "2c3bcb16",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf",
+      "title": "Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf"
+    },
+    {
+      "cover": "yaspers-sobranie-sochineniy-po-psihopatologii-v-dvuh-tomah-tom-1-586039-fb2-epub-f679b338.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_So🔹f679b338",
+      "md5_relative": "f679b338",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-1.586039.fb2.epub",
+      "title": "Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-1.586039.fb2.epub"
+    },
+    {
+      "cover": null,
+      "identifier": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Geyzenberg🔹00ee779d",
+      "md5_relative": "00ee779d",
+      "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Geyzenberg V.. Fizika i filosofiya - BooksCafe.Net.epub",
+      "title": "Geyzenberg V.. Fizika i filosofiya - BooksCafe.Net.epub"
+    },
+    {
+      "cover": null,
+      "identifier": "024 🥨 Prop🔹Смерть экс🔹7375b617",
+      "md5_relative": "7375b617",
+      "relative": "024 🥨 Propaganda T/Смерть экспертизы [litres] (Том Николс).fb2",
+      "title": "Смерть экспертизы [litres] (Том Николс).fb2"
+    },
+    {
+      "cover": "a-companion-to-food-in-the-ancient-wo-z-lib-org-pdf-54e94b1e.jpg",
+      "identifier": "802 🦖 Ser.🔹add🔹A Companio🔹54e94b1e",
+      "md5_relative": "54e94b1e",
+      "relative": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
+      "title": "A Companion to Food in the Ancient Wo... (z-lib.org).pdf"
+    },
+    {
+      "cover": "vse-liudi-filosofy-karl-popper-pdf-a313c39b.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Все люди —🔹a313c39b",
+      "md5_relative": "a313c39b",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Все люди — философы (Карл Поппер).pdf",
+      "title": "Все люди — философы (Карл Поппер).pdf"
+    },
+    {
+      "cover": "wittgenstein-sir-anthony-kenny-pdf-1068db97.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹Wittgenste🔹1068db97",
+      "md5_relative": "1068db97",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Wittgenstein (Sir Anthony Kenny).pdf",
+      "title": "Wittgenstein (Sir Anthony Kenny).pdf"
+    },
+    {
+      "cover": "otkrytoe-obshchestvo-i-ego-vragi-tom-2-vremia-lzheprorokov-gegel-marks-i-drugie-orakuly-karl-popper-pdf-f125cea7.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Открытое о🔹f125cea7",
+      "md5_relative": "f125cea7",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Открытое общество и его враги. Том 2 Время лжепророков Гегель, Маркс и другие оракулы (Карл Поппер).pdf",
+      "title": "Открытое общество и его враги. Том 2 Время лжепророков Гегель, Маркс и другие оракулы (Карл Поппер).pdf"
+    },
+    {
+      "cover": "heisenberg-physik-und-philosophie-pdf-d5da0b03.jpg",
+      "identifier": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Heisenberg🔹d5da0b03",
+      "md5_relative": "d5da0b03",
+      "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Heisenberg_Physik_und_Philosophie.pdf",
+      "title": "Heisenberg_Physik_und_Philosophie.pdf"
+    },
+    {
+      "cover": "yaspers-filosofskoe-orientirovanie-v-mire-rulit-net-326195-epub-54b31762.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_FI🔹54b31762",
+      "md5_relative": "54b31762",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_FILOSOFSKOE-ORIENTIROVANIE-V-MIRE_RuLit_Net_326195.epub",
+      "title": "Yaspers_FILOSOFSKOE-ORIENTIROVANIE-V-MIRE_RuLit_Net_326195.epub"
+    },
+    {
+      "cover": "yaspers-epub-d6507591.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹yaspers.ep🔹d6507591",
+      "md5_relative": "d6507591",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers.epub",
+      "title": "yaspers.epub"
+    },
+    {
+      "cover": "tri-tochki-zreniia-na-chelovecheskoe-poznanie-karl-popper-pdf-b4a6e272.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Три точки 🔹b4a6e272",
+      "md5_relative": "b4a6e272",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "title": "Три точки зрения на человеческое познание (Карл Поппер).pdf"
+    },
+    {
+      "cover": null,
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Три точки 🔹5b1fbdf7",
+      "md5_relative": "5b1fbdf7",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Три точки зрения на человеческое познание (Карл Поппер).epub",
+      "title": "Три точки зрения на человеческое познание (Карл Поппер).epub"
+    },
+    {
+      "cover": "exploring-philosophy-pdf-97c07138.jpg",
+      "identifier": "1001 - Ign🔹Exploring-🔹97c07138",
+      "md5_relative": "97c07138",
+      "relative": "1001 - Ignore T/Exploring-philosophy.pdf",
+      "title": "Exploring-philosophy.pdf"
+    },
+    {
+      "cover": "logika-i-rost-nauchnogo-znaniia-karl-popper-pdf-765e7d20.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Логика и р🔹765e7d20",
+      "md5_relative": "765e7d20",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика и рост научного знания (Карл Поппер).pdf",
+      "title": "Логика и рост научного знания (Карл Поппер).pdf"
+    },
+    {
+      "cover": "ia-manipuliruiu-toboi-metody-protivodeistviia-skrytomu-vliianiiu-nikita-iurevich-nepriakhin-epub-d8a95901.jpg",
+      "identifier": "024 🥨 Prop🔹Я манипули🔹d8a95901",
+      "md5_relative": "d8a95901",
+      "relative": "024 🥨 Propaganda T/Я манипулирую тобой. Методы противодействия скрытому влиянию (Никита Юрьевич Непряхин).epub",
+      "title": "Я манипулирую тобой. Методы противодействия скрытому влиянию (Никита Юрьевич Непряхин).epub"
+    },
+    {
+      "cover": "yaspers-smyisl-i-naznachenie-istorii-sbornik-rulit-net-240196-epub-ac4f6add.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_Sm🔹ac4f6add",
+      "md5_relative": "ac4f6add",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Smyisl_i_naznachenie_istorii_sbornik__RuLit_Net_240196.epub",
+      "title": "Yaspers_Smyisl_i_naznachenie_istorii_sbornik__RuLit_Net_240196.epub"
+    },
+    {
+      "cover": "verner-geyzenberg-shagi-za-gorizont-djvu-217c18f0.jpg",
+      "identifier": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Verner_Gey🔹217c18f0",
+      "md5_relative": "217c18f0",
+      "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Verner_Geyzenberg__Shagi_Za_Gorizont.djvu",
+      "title": "Verner_Geyzenberg__Shagi_Za_Gorizont.djvu"
+    },
+    {
+      "cover": "storytelling-for-law-by-philip-meyer-z-lib-org-epub-b22a74ba.jpg",
+      "identifier": "024 🥨 Prop🔹Storytelli🔹b22a74ba",
+      "md5_relative": "b22a74ba",
+      "relative": "024 🥨 Propaganda T/Storytelling for Law... by Philip Meyer (z-lib.org).epub",
+      "title": "Storytelling for Law... by Philip Meyer (z-lib.org).epub"
+    },
+    {
+      "cover": null,
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_Sm🔹009a69f3",
+      "md5_relative": "009a69f3",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Smyisl_i_naznachenie_istorii_RuLit_Net_215543.epub",
+      "title": "Yaspers_Smyisl_i_naznachenie_istorii_RuLit_Net_215543.epub"
+    },
+    {
+      "cover": "vvedenie-v-filosofiiu-iaspers-karl-pdf-0230325d.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Введение в🔹0230325d",
+      "md5_relative": "0230325d",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Введение в философию (Ясперс Карл.).pdf",
+      "title": "Введение в философию (Ясперс Карл.).pdf"
+    },
+    {
+      "cover": "logika-nauchnogo-issledovaniia-popper-k-djvu-532c744b.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Логика нау🔹532c744b",
+      "md5_relative": "532c744b",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика научного исследования (Поппер К.).djvu",
+      "title": "Логика научного исследования (Поппер К.).djvu"
+    },
+    {
+      "cover": "vse-liudi-filosofy-kak-ia-ponimaiu-filosofiiu-popper-karl-djvu-d34d28e0.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Все люди -🔹d34d28e0",
+      "md5_relative": "d34d28e0",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu",
+      "title": "Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu"
+    },
+    {
+      "cover": "a-companion-to-food-in-the-ancient-wo-z-lib-org-copy-2-pdf-edb97cdb.jpg",
+      "identifier": "802 🦖 Ser.🔹add🔹A Companio🔹edb97cdb",
+      "md5_relative": "edb97cdb",
+      "relative": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf",
+      "title": "A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf"
+    },
+    {
+      "cover": "yaspers-filosofiya-kniga-tretya-metafizika-rulit-net-326193-epub-ae51f352.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_Fi🔹ae51f352",
+      "md5_relative": "ae51f352",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub",
+      "title": "Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub"
+    },
+    {
+      "cover": "an-illustrated-brief-by-sir-anthony-kenny-z-lib-org-pdf-60e1e0b9.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹An Illustr🔹60e1e0b9",
+      "md5_relative": "60e1e0b9",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief... by Sir Anthony Kenny (z-lib.org).pdf",
+      "title": "An Illustrated Brief... by Sir Anthony Kenny (z-lib.org).pdf"
+    },
+    {
+      "cover": "a-new-history-of-western-philosophy-volume-2-medieval-philosophy-anthony-kenny-pdf-386c18f9.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹A New Hist🔹386c18f9",
+      "md5_relative": "386c18f9",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/A New History of Western Philosophy,Volume 2 - Medieval Philosophy (Anthony Kenny).pdf",
+      "title": "A New History of Western Philosophy,Volume 2 - Medieval Philosophy (Anthony Kenny).pdf"
+    },
+    {
+      "cover": "vsia-zhizn-reshenie-problem-o-poznanii-istorii-i-politike-ch-2-mysli-ob-istorii-i-politike-popper-k-r-djvu-87cda869.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Вся жизнь 🔹87cda869",
+      "md5_relative": "87cda869",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Вся жизнь — решение проблем. О познании, истории и политике. Ч. 2 Мысли об истории и политике (Поппер К.Р.).djvu",
+      "title": "Вся жизнь — решение проблем. О познании, истории и политике. Ч. 2 Мысли об истории и политике (Поппер К.Р.).djvu"
+    },
+    {
+      "cover": "yaspers-velikie-filosofy-kniga-2-pdf-f103cfa0.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹yaspers._v🔹f103cfa0",
+      "md5_relative": "f103cfa0",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers._velikie_filosofy._kniga_2.pdf",
+      "title": "yaspers._velikie_filosofy._kniga_2.pdf"
+    },
+    {
+      "cover": "operator-theoretic-aspects-of-ergodic-theory-tanja-eisner-balint-farkas-markus-haase-etc-z-lib-org-pdf-71de4f25.jpg",
+      "identifier": "002 🚀 Math🔹Operator T🔹71de4f25",
+      "md5_relative": "71de4f25",
+      "relative": "002 🚀 Mathimatics T/Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+      "title": "Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf"
+    },
+    {
+      "cover": "evoliutsionnaia-epistemologiia-karl-popper-pdf-89eca26f.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Эволюционн🔹89eca26f",
+      "md5_relative": "89eca26f",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Эволюционная эпистемология (Карл Поппер).pdf",
+      "title": "Эволюционная эпистемология (Карл Поппер).pdf"
+    },
+    {
+      "cover": "rossiia-v-epokhu-postpravdy-zdravyi-smysl-protiv-informatsionnogo-shuma-andrei-andreevich-movchan-pdf-172f0390.jpg",
+      "identifier": "024 🥨 Prop🔹Россия в э🔹172f0390",
+      "md5_relative": "172f0390",
+      "relative": "024 🥨 Propaganda T/Россия в эпоху постправды. Здравый смысл против информационного шума (Андрей Андреевич Мовчан).pdf",
+      "title": "Россия в эпоху постправды. Здравый смысл против информационного шума (Андрей Андреевич Мовчан).pdf"
+    },
+    {
+      "cover": "iskushenie-sviatogo-kopernika-nenauchnye-korni-nauchnoi-revoliutsii-dmitriev-i-s-djvu-a0b346f3.jpg",
+      "identifier": "001 🪲 Phil🔹4 🔬 Scient🔹Искушение 🔹a0b346f3",
+      "md5_relative": "a0b346f3",
+      "relative": "001 🪲 Philosophy T/4 🔬 Scientific Philosophy T/Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu",
+      "title": "Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu"
+    },
+    {
+      "cover": "iaspers-o-nitsshe-vvedenie-v-ponimanie-ego-filosofstvovaniia-karl-iaspers-pdf-6dbce3e8.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Ясперс о Н🔹6dbce3e8",
+      "md5_relative": "6dbce3e8",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Ясперс о Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "title": "Ясперс о Ницше Введение в понимание его философствования (Карл Ясперс).pdf"
+    },
+    {
+      "cover": "putevoditel-po-lzhi-kriticheskoe-myshlenie-v-epokhu-postpravdy-russian-edition-levitin-deniel-pdf-6839418f.jpg",
+      "identifier": "024 🥨 Prop🔹Путеводите🔹6839418f",
+      "md5_relative": "6839418f",
+      "relative": "024 🥨 Propaganda T/Путеводитель по лжи Критическое мышление в эпоху постправды (Russian Edition) (Левитин, Дэниел­).pdf",
+      "title": "Путеводитель по лжи Критическое мышление в эпоху постправды (Russian Edition) (Левитин, Дэниел­).pdf"
+    },
+    {
+      "cover": "an-illustrated-brief-history-of-western-philosophy-sir-anthony-kenny-pdf-9ab02b01.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹An Illustr🔹9ab02b01",
+      "md5_relative": "9ab02b01",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf",
+      "title": "An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf"
+    },
+    {
+      "cover": "philosophy-in-the-modern-world-a-new-history-of-western-philosophy-anthony-kenny-pdf-d40300d9.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹Philosophy🔹d40300d9",
+      "md5_relative": "d40300d9",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Philosophy in the Modern World A New History of Western Philosophy (Anthony Kenny).pdf",
+      "title": "Philosophy in the Modern World A New History of Western Philosophy (Anthony Kenny).pdf"
+    },
+    {
+      "cover": "ancient-philosophy-a-new-history-of-western-philosophy-volume-1-anthony-kenny-pdf-f1fc5dcf.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹Ancient Ph🔹f1fc5dcf",
+      "md5_relative": "f1fc5dcf",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf",
+      "title": "Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf"
+    },
+    {
+      "cover": "geizenber-verner-shagi-za-gorizont-royallib-com-epub-e5ac1771.jpg",
+      "identifier": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Гейзенбер🔹e5ac1771",
+      "md5_relative": "e5ac1771",
+      "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Гейзенбер Вернер. Шаги за горизонт - royallib.com.epub",
+      "title": "Гейзенбер Вернер. Шаги за горизонт - royallib.com.epub"
+    },
+    {
+      "cover": "kant-zhizn-trudy-vliianie-karl-iaspers-pdf-7890bbf6.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Кант жизнь🔹7890bbf6",
+      "md5_relative": "7890bbf6",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Кант жизнь, труды, влияние (Карл Ясперс).pdf",
+      "title": "Кант жизнь, труды, влияние (Карл Ясперс).pdf"
+    },
+    {
+      "cover": "znanie-i-psikhofizicheskaia-problema-v-zashchitu-vzaimodeistviia-popper-karl-pdf-d350074a.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Знание и п🔹d350074a",
+      "md5_relative": "d350074a",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Знание и психофизическая проблема В защиту взаимодействия (Поппер Карл.).pdf",
+      "title": "Знание и психофизическая проблема В защиту взаимодействия (Поппер Карл.).pdf"
+    },
+    {
+      "cover": "vf2010lipkin-arpht5tmw0o-pdf-828f69b1.jpg",
+      "identifier": "002 🚀 Math🔹28 - Quant🔹VF2010Lipk🔹828f69b1",
+      "md5_relative": "828f69b1",
+      "relative": "002 🚀 Mathimatics T/28 - Quantum T/VF2010Lipkin-arpht5tmw0o.pdf",
+      "title": "VF2010Lipkin-arpht5tmw0o.pdf"
+    },
+    {
+      "cover": "razum-i-ekzistentsiia-iaspers-karl-djvu-0d36c37d.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Разум и эк🔹0d36c37d",
+      "md5_relative": "0d36c37d",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Разум и экзистенция (Ясперс Карл).djvu",
+      "title": "Разум и экзистенция (Ясперс Карл).djvu"
+    },
+    {
+      "cover": "nitsshe-vvedenie-v-ponimanie-ego-filosofstvovaniia-karl-iaspers-pdf-b7036d2c.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Ницше Введ🔹b7036d2c",
+      "md5_relative": "b7036d2c",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "title": "Ницше Введение в понимание его философствования (Карл Ясперс).pdf"
+    },
+    {
+      "cover": "dekart-rene-rassuzhdenie-o-metode-metafizicheskie-razmyshlen-djvu-15291125.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1596 🕯 Dek🔹dekart_ren🔹15291125",
+      "md5_relative": "15291125",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu",
+      "title": "dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu"
+    },
+    {
+      "cover": "yaspers-sobranie-sochineniy-po-psihopatologii-v-dvuh-tomah-tom-2-586040-fb2-epub-b88d6217.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers_So🔹b88d6217",
+      "md5_relative": "b88d6217",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub",
+      "title": "Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub"
+    },
+    {
+      "cover": null,
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Yaspers Ka🔹bde68414",
+      "md5_relative": "bde68414",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers Karl. Vvedenie v filosofiyu - BooksCafe.Net.epub",
+      "title": "Yaspers Karl. Vvedenie v filosofiyu - BooksCafe.Net.epub"
+    },
+    {
+      "cover": "dekartr-razmyshljaja-o-pervoj-filosofii-filosoff-org-pdf-349f3531.jpg",
+      "identifier": "001 🪲 Phil🔹1 🏂 Bright🔹1596 🕯 Dek🔹DekartR-Ra🔹349f3531",
+      "md5_relative": "349f3531",
+      "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf",
+      "title": "DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf"
+    }
+  ]
+}
