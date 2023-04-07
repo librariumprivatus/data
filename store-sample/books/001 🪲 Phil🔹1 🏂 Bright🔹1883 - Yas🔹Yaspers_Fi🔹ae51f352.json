@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/yaspers-filosofiya-kniga-tretya-metafizika-rulit-net-326193-epub-ae51f352.jpg",
-  "data": "data/books",
+  "cover": "yaspers-filosofiya-kniga-tretya-metafizika-rulit-net-326193-epub-ae51f352.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

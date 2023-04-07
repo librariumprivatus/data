@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/yaspers-sobranie-sochineniy-po-psihopatologii-v-dvuh-tomah-tom-2-586040-fb2-epub-b88d6217.jpg",
-  "data": "data/books",
+  "cover": "yaspers-sobranie-sochineniy-po-psihopatologii-v-dvuh-tomah-tom-2-586040-fb2-epub-b88d6217.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

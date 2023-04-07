@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/nitsshe-vvedenie-v-ponimanie-ego-filosofstvovaniia-karl-iaspers-pdf-b7036d2c.jpg",
-  "data": "data/books",
+  "cover": "nitsshe-vvedenie-v-ponimanie-ego-filosofstvovaniia-karl-iaspers-pdf-b7036d2c.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "Ницше Введение в понимание его философствования (Карл Ясперс).pdf"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

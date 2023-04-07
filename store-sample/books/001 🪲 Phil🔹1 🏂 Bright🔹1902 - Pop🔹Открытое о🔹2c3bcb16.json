@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/otkrytoe-obshchestvo-i-ego-vragi-tom-1-chary-platona-karl-popper-pdf-2c3bcb16.jpg",
-  "data": "data/books",
+  "cover": "otkrytoe-obshchestvo-i-ego-vragi-tom-1-chary-platona-karl-popper-pdf-2c3bcb16.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

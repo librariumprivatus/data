@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/vse-liudi-filosofy-kak-ia-ponimaiu-filosofiiu-popper-karl-djvu-d34d28e0.jpg",
-  "data": "data/books",
+  "cover": "vse-liudi-filosofy-kak-ia-ponimaiu-filosofiiu-popper-karl-djvu-d34d28e0.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

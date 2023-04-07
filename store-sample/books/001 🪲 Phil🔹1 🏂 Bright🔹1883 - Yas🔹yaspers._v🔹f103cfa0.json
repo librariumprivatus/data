@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/yaspers-velikie-filosofy-kniga-2-pdf-f103cfa0.jpg",
-  "data": "data/books",
+  "cover": "yaspers-velikie-filosofy-kniga-2-pdf-f103cfa0.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers._velikie_filosofy._kniga_2.pdf",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "yaspers._velikie_filosofy._kniga_2.pdf"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

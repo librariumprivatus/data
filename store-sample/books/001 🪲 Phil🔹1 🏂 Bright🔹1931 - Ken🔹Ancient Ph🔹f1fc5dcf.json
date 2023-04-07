@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/ancient-philosophy-a-new-history-of-western-philosophy-volume-1-anthony-kenny-pdf-f1fc5dcf.jpg",
-  "data": "data/books",
+  "cover": "ancient-philosophy-a-new-history-of-western-philosophy-volume-1-anthony-kenny-pdf-f1fc5dcf.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

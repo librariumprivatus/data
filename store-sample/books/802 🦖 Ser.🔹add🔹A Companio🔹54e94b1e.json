@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/a-companion-to-food-in-the-ancient-wo-z-lib-org-pdf-54e94b1e.jpg",
-  "data": "data/books",
+  "cover": "a-companion-to-food-in-the-ancient-wo-z-lib-org-pdf-54e94b1e.jpg",
   "relative": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "A Companion to Food in the Ancient Wo... (z-lib.org).pdf"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }

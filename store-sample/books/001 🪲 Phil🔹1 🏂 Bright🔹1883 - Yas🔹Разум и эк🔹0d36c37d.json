@@ -1,8 +1,6 @@
 {
-  "authors": "",
-  "cover": "data/covers/razum-i-ekzistentsiia-iaspers-karl-djvu-0d36c37d.jpg",
-  "data": "data/books",
+  "cover": "razum-i-ekzistentsiia-iaspers-karl-djvu-0d36c37d.jpg",
   "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Разум и экзистенция (Ясперс Карл).djvu",
-  "root": "/Users/andrewlevin/Desktop/97🎿ToolsOfBiblioteka/17🍏🏛🍎Bibloteka T",
-  "title": "Разум и экзистенция (Ясперс Карл).djvu"
+  "root": "../data/biblioteka-sample",
+  "store": "../data/store-sample"
 }
