@@ -1,5 +1,8 @@
 {
-  "relative": "024 🥨 Propaganda T/Смерть экспертизы [litres] (Том Николс).fb2",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "024 🥨 Propaganda T/Смерть экспертизы [litres] (Том Николс).fb2",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "smert-ek-7375b617",
+  "id_long": "024 🥨 Prop🔹Смерть экс🔹7375b617"
 }

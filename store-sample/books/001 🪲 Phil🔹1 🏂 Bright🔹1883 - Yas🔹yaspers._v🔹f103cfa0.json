@@ -1,6 +1,9 @@
 {
-  "cover": "yaspers-velikie-filosofy-kniga-2-pdf-f103cfa0.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers._velikie_filosofy._kniga_2.pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers._velikie_filosofy._kniga_2.pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "yaspers--f103cfa0",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹yaspers._v🔹f103cfa0",
+  "cover": "yaspers-velikie-filosofy-kniga-2-pdf-f103cfa0.jpg"
 }

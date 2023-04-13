@@ -1,6 +1,9 @@
 {
-  "cover": "heisenberg-physik-und-philosophie-pdf-d5da0b03.jpg",
-  "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Heisenberg_Physik_und_Philosophie.pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Heisenberg_Physik_und_Philosophie.pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "heisenbe-d5da0b03",
+  "id_long": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Heisenberg🔹d5da0b03",
+  "cover": "heisenberg-physik-und-philosophie-pdf-d5da0b03.jpg"
 }

@@ -1,6 +1,9 @@
 {
-  "cover": "iskushenie-sviatogo-kopernika-nenauchnye-korni-nauchnoi-revoliutsii-dmitriev-i-s-djvu-a0b346f3.jpg",
-  "relative": "001 🪲 Philosophy T/4 🔬 Scientific Philosophy T/Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/4 🔬 Scientific Philosophy T/Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "iskushen-a0b346f3",
+  "id_long": "001 🪲 Phil🔹4 🔬 Scient🔹Искушение 🔹a0b346f3",
+  "cover": "iskushenie-sviatogo-kopernika-nenauchnye-korni-nauchnoi-revoliutsii-dmitriev-i-s-djvu-a0b346f3.jpg"
 }

@@ -1,6 +1,9 @@
 {
-  "cover": "yaspers-epub-d6507591.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers.epub",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers.epub",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "yaspers--d6507591",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹yaspers.ep🔹d6507591",
+  "cover": "yaspers-epub-d6507591.jpg"
 }

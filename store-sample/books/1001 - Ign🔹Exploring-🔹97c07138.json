@@ -1,6 +1,9 @@
 {
-  "cover": "exploring-philosophy-pdf-97c07138.jpg",
-  "relative": "1001 - Ignore T/Exploring-philosophy.pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "1001 - Ignore T/Exploring-philosophy.pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "explorin-97c07138",
+  "id_long": "1001 - Ign🔹Exploring-🔹97c07138",
+  "cover": "exploring-philosophy-pdf-97c07138.jpg"
 }

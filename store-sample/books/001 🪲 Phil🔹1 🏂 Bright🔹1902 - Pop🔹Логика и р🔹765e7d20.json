@@ -1,6 +1,9 @@
 {
-  "cover": "logika-i-rost-nauchnogo-znaniia-karl-popper-pdf-765e7d20.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика и рост научного знания (Карл Поппер).pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика и рост научного знания (Карл Поппер).pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "logika-i-765e7d20",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Логика и р🔹765e7d20",
+  "cover": "logika-i-rost-nauchnogo-znaniia-karl-popper-pdf-765e7d20.jpg"
 }

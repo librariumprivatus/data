@@ -1,6 +1,9 @@
 {
-  "cover": "a-companion-to-food-in-the-ancient-wo-z-lib-org-copy-2-pdf-edb97cdb.jpg",
-  "relative": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "a-compan-edb97cdb",
+  "id_long": "802 🦖 Ser.🔹add🔹A Companio🔹edb97cdb",
+  "cover": "a-companion-to-food-in-the-ancient-wo-z-lib-org-copy-2-pdf-edb97cdb.jpg"
 }

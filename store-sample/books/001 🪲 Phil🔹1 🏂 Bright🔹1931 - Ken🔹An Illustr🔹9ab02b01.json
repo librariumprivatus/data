@@ -1,6 +1,9 @@
 {
-  "cover": "an-illustrated-brief-history-of-western-philosophy-sir-anthony-kenny-pdf-9ab02b01.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "an-illus-9ab02b01",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹An Illustr🔹9ab02b01",
+  "cover": "an-illustrated-brief-history-of-western-philosophy-sir-anthony-kenny-pdf-9ab02b01.jpg"
 }

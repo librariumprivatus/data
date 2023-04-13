@@ -1,6 +1,9 @@
 {
-  "cover": "verner-geyzenberg-shagi-za-gorizont-djvu-217c18f0.jpg",
-  "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Verner_Geyzenberg__Shagi_Za_Gorizont.djvu",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Verner_Geyzenberg__Shagi_Za_Gorizont.djvu",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "verner-g-217c18f0",
+  "id_long": "002 🚀 Math🔹28 - Quant🔹Heisenberg🔹Verner_Gey🔹217c18f0",
+  "cover": "verner-geyzenberg-shagi-za-gorizont-djvu-217c18f0.jpg"
 }

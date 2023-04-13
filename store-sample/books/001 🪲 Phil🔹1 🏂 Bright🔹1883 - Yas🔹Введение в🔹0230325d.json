@@ -1,6 +1,9 @@
 {
-  "cover": "vvedenie-v-filosofiiu-iaspers-karl-pdf-0230325d.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Введение в философию (Ясперс Карл.).pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Введение в философию (Ясперс Карл.).pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "vvedenie-0230325d",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Введение в🔹0230325d",
+  "cover": "vvedenie-v-filosofiiu-iaspers-karl-pdf-0230325d.jpg"
 }

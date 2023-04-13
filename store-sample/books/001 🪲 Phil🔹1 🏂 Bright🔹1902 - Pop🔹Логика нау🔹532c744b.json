@@ -1,6 +1,9 @@
 {
-  "cover": "logika-nauchnogo-issledovaniia-popper-k-djvu-532c744b.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика научного исследования (Поппер К.).djvu",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика научного исследования (Поппер К.).djvu",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "logika-n-532c744b",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1902 - Pop🔹Логика нау🔹532c744b",
+  "cover": "logika-nauchnogo-issledovaniia-popper-k-djvu-532c744b.jpg"
 }

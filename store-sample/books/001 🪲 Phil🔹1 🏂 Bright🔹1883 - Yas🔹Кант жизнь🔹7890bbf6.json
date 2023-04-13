@@ -1,6 +1,9 @@
 {
-  "cover": "kant-zhizn-trudy-vliianie-karl-iaspers-pdf-7890bbf6.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Кант жизнь, труды, влияние (Карл Ясперс).pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Кант жизнь, труды, влияние (Карл Ясперс).pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "kant-zhi-7890bbf6",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1883 - Yas🔹Кант жизнь🔹7890bbf6",
+  "cover": "kant-zhizn-trudy-vliianie-karl-iaspers-pdf-7890bbf6.jpg"
 }

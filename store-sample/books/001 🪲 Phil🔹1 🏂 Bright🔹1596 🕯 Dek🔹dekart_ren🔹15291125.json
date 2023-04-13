@@ -1,6 +1,9 @@
 {
-  "cover": "dekart-rene-rassuzhdenie-o-metode-metafizicheskie-razmyshlen-djvu-15291125.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "dekart-r-15291125",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1596 🕯 Dek🔹dekart_ren🔹15291125",
+  "cover": "dekart-rene-rassuzhdenie-o-metode-metafizicheskie-razmyshlen-djvu-15291125.jpg"
 }

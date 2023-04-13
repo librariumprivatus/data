@@ -1,6 +1,9 @@
 {
-  "cover": "wittgenstein-sir-anthony-kenny-pdf-1068db97.jpg",
-  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Wittgenstein (Sir Anthony Kenny).pdf",
   "root": "../data/biblioteka-sample",
-  "store": "../data/store-sample"
+  "relative": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Wittgenstein (Sir Anthony Kenny).pdf",
+  "store": "../data/store-sample",
+  "type": "file",
+  "id_short": "wittgens-1068db97",
+  "id_long": "001 🪲 Phil🔹1 🏂 Bright🔹1931 - Ken🔹Wittgenste🔹1068db97",
+  "cover": "wittgenstein-sir-anthony-kenny-pdf-1068db97.jpg"
 }
