@@ -1,212 +1,57 @@
 {
+  "udate": "23-04-17 22:48:40",
   "elements": [
-    {
-      "id": "smert-ek-7375b617",
-      "time": 1679958396
-    },
-    {
-      "id": "a-compan-54e94b1e",
-      "time": 1679958396
-    },
-    {
-      "id": "explorin-97c07138",
-      "time": 1679958396
-    },
-    {
-      "id": "ia-manip-d8a95901",
-      "time": 1679958396
-    },
-    {
-      "id": "verner-g-217c18f0",
-      "time": 1679958396
-    },
-    {
-      "id": "storytel-b22a74ba",
-      "time": 1679958396
-    },
-    {
-      "id": "a-compan-edb97cdb",
-      "time": 1679958396
-    },
-    {
-      "id": "x-ignore-d534040d",
-      "time": 1679958396
-    },
-    {
-      "id": "operator-71de4f25",
-      "time": 1679958396
-    },
-    {
-      "id": "rossiia--172f0390",
-      "time": 1679958396
-    },
-    {
-      "id": "putevodi-6839418f",
-      "time": 1679958396
-    },
-    {
-      "id": "geizenbe-e5ac1771",
-      "time": 1679958396
-    },
-    {
-      "id": "vf2010li-828f69b1",
-      "time": 1679958396
-    },
-    {
-      "id": "tri-toch-a20e7587",
-      "time": 1679958395
-    },
-    {
-      "id": "otkrytoe-2c3bcb16",
-      "time": 1679958395
-    },
-    {
-      "id": "geyzenbe-00ee779d",
-      "time": 1679958395
-    },
-    {
-      "id": "wittgens-1068db97",
-      "time": 1679958395
-    },
-    {
-      "id": "otkrytoe-f125cea7",
-      "time": 1679958395
-    },
-    {
-      "id": "heisenbe-d5da0b03",
-      "time": 1679958395
-    },
-    {
-      "id": "tri-toch-5b1fbdf7",
-      "time": 1679958395
-    },
-    {
-      "id": "an-illus-60e1e0b9",
-      "time": 1679958395
-    },
-    {
-      "id": "a-new-hi-386c18f9",
-      "time": 1679958395
-    },
-    {
-      "id": "evoliuts-89eca26f",
-      "time": 1679958395
-    },
-    {
-      "id": "iskushen-a0b346f3",
-      "time": 1679958395
-    },
-    {
-      "id": "an-illus-9ab02b01",
-      "time": 1679958395
-    },
-    {
-      "id": "philosop-d40300d9",
-      "time": 1679958395
-    },
-    {
-      "id": "ancient--f1fc5dcf",
-      "time": 1679958395
-    },
-    {
-      "id": "vse-liud-a313c39b",
-      "time": 1679958394
-    },
-    {
-      "id": "tri-toch-b4a6e272",
-      "time": 1679958394
-    },
-    {
-      "id": "logika-i-765e7d20",
-      "time": 1679958394
-    },
-    {
-      "id": "logika-n-532c744b",
-      "time": 1679958394
-    },
-    {
-      "id": "vse-liud-d34d28e0",
-      "time": 1679958394
-    },
-    {
-      "id": "vsia-zhi-87cda869",
-      "time": 1679958394
-    },
-    {
-      "id": "iaspers--6dbce3e8",
-      "time": 1679958394
-    },
-    {
-      "id": "kant-zhi-7890bbf6",
-      "time": 1679958394
-    },
-    {
-      "id": "znanie-i-d350074a",
-      "time": 1679958394
-    },
-    {
-      "id": "razum-i--0d36c37d",
-      "time": 1679958394
-    },
-    {
-      "id": "nitsshe--b7036d2c",
-      "time": 1679958394
-    },
-    {
-      "id": "yaspers--f679b338",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--54b31762",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--d6507591",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--ac4f6add",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--009a69f3",
-      "time": 1679958393
-    },
-    {
-      "id": "vvedenie-0230325d",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--ae51f352",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--f103cfa0",
-      "time": 1679958393
-    },
-    {
-      "id": "dekart-r-15291125",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--b88d6217",
-      "time": 1679958393
-    },
-    {
-      "id": "yaspers--bde68414",
-      "time": 1679958393
-    },
-    {
-      "id": "dekartr--349f3531",
-      "time": 1679958392
-    },
-    {
-      "id": "sviaz-fi-db077c16",
-      "time": 1678976307
-    },
-    {
-      "id": "chanyshe-6ef764e3",
-      "time": 1651003772
-    }
+    "tri-toch-a20e7587",
+    "otkrytoe-2c3bcb16",
+    "yaspers--f679b338",
+    "geyzenbe-00ee779d",
+    "smert-ek-7375b617",
+    "a-compan-54e94b1e",
+    "vse-liud-a313c39b",
+    "wittgens-1068db97",
+    "otkrytoe-f125cea7",
+    "heisenbe-d5da0b03",
+    "yaspers--54b31762",
+    "yaspers--d6507591",
+    "tri-toch-b4a6e272",
+    "tri-toch-5b1fbdf7",
+    "explorin-97c07138",
+    "logika-i-765e7d20",
+    "ia-manip-d8a95901",
+    "yaspers--ac4f6add",
+    "verner-g-217c18f0",
+    "storytel-b22a74ba",
+    "yaspers--009a69f3",
+    "vvedenie-0230325d",
+    "logika-n-532c744b",
+    "sviaz-fi-db077c16",
+    "vse-liud-d34d28e0",
+    "chanyshe-6ef764e3",
+    "a-compan-edb97cdb",
+    "yaspers--ae51f352",
+    "x-ignore-d534040d",
+    "an-illus-60e1e0b9",
+    "a-new-hi-386c18f9",
+    "vsia-zhi-87cda869",
+    "yaspers--f103cfa0",
+    "operator-71de4f25",
+    "evoliuts-89eca26f",
+    "rossiia--172f0390",
+    "iskushen-a0b346f3",
+    "iaspers--6dbce3e8",
+    "putevodi-6839418f",
+    "an-illus-9ab02b01",
+    "philosop-d40300d9",
+    "ancient--f1fc5dcf",
+    "geizenbe-e5ac1771",
+    "kant-zhi-7890bbf6",
+    "znanie-i-d350074a",
+    "vf2010li-828f69b1",
+    "razum-i--0d36c37d",
+    "nitsshe--b7036d2c",
+    "dekart-r-15291125",
+    "yaspers--b88d6217",
+    "yaspers--bde68414",
+    "dekartr--349f3531"
   ]
 }
