@@ -1,5 +1,5 @@
 {
-  "udate": "23-04-14 21:49:35",
+  "udate": "23-04-18 19:50:41",
   "tree": {
     "name": "biblioteka-sample",
     "path": ".",
@@ -484,12 +484,28 @@
             "id_long": "1001 - Ign🔹Exploring-🔹97c07138"
           },
           {
+            "name": "chanyshev. nachalo filosofii.pdf",
+            "path": "1001 - Ignore T/chanyshev. nachalo filosofii.pdf",
+            "children": null,
+            "type": "file",
+            "id_short": "chanyshe-6ef764e3",
+            "id_long": "1001 - Ign🔹chanyshev.🔹6ef764e3"
+          },
+          {
             "name": "x-ignore.txt",
             "path": "1001 - Ignore T/x-ignore.txt",
             "children": null,
             "type": "file",
             "id_short": "x-ignore-d534040d",
             "id_long": "1001 - Ign🔹x-ignore.t🔹d534040d"
+          },
+          {
+            "name": "Связь философии с жизнью в последние.ddjvu.pdf",
+            "path": "1001 - Ignore T/Связь философии с жизнью в последние.ddjvu.pdf",
+            "children": null,
+            "type": "file",
+            "id_short": "sviaz-fi-db077c16",
+            "id_long": "1001 - Ign🔹Связь фило🔹db077c16"
           }
         ],
         "type": "dir",
