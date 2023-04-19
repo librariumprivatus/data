@@ -1,0 +1,13 @@
+{
+  'update': 'UDATE',
+  'config': {
+    'dir': {
+      'covers': 'covers',
+      'small_covers': 'covers-q100w400h500',
+      'jsons': 'jsons'
+    },
+    'tag': {
+      
+    },
+  }
+}
